@@ -6,8 +6,8 @@ don’t need to load all the response fields, 3 or 4 is okay for me.
 
 2. Implement SCD type 6 for the  “EMPLOYEE_Q2” table:
 Notes:
-1. The SCD fields are City and Email.
-2. Read source data using Incremental Load.
+2.1. The SCD fields are City and Email.
+2.2. Read source data using Incremental Load.
 
 3.  Load data to a table using versioning :
 3.1 Source table “EMPLOYEE_Q3”
